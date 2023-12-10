@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <header className='px-4 py-8'>
       <nav className='flex justify-between items-center max-w-screen-lg mx-auto'>
-      <Logo size={'120px'} />
+      <Logo size={'140px'} />
       <AuthLinks  />
       </nav>
     </header>
